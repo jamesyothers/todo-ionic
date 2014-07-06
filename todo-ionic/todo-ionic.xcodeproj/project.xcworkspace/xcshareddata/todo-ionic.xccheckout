@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F8A949C0-8E8B-495C-B4BA-989E4C4D0F9E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>todo-ionic</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C2E199D9-1C3A-41E8-AF12-C7DDD64BDA29</key>
+		<string>https://github.com/jamesyothers/todo-ionic.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>todo-ionic/todo-ionic.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C2E199D9-1C3A-41E8-AF12-C7DDD64BDA29</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jamesyothers/todo-ionic.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C2E199D9-1C3A-41E8-AF12-C7DDD64BDA29</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C2E199D9-1C3A-41E8-AF12-C7DDD64BDA29</string>
+			<key>IDESourceControlWCCName</key>
+			<string>todo-ionic</string>
+		</dict>
+	</array>
+</dict>
+</plist>
